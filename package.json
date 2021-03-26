@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "vue": "^3.0.0",
+    "trading-vue-js": "github:GoPlan-Finance/trading-vue-js#vue3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
